@@ -1,0 +1,4 @@
+language: python3
+python3:
+	- "3.4.0"
+script: test_rpn.py
